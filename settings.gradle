@@ -1,0 +1,2 @@
+rootProject.name='AndroidFragments'
+include ':app'
